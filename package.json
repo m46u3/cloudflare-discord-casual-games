@@ -10,7 +10,7 @@
     "register:commands": "tsx scripts/register-commands.ts"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20261030.0",
+    "@cloudflare/workers-types": "latest",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2",
     "wrangler": "^4.0.0"
